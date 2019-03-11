@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Southern Railway</string>
+    <string name="logout">g</string>
+    <string name="assign_census">Assign Census</string>
+    <string name="report">Report</string>
+    <string name="settings" />
+    <string name="welcome_to_census_app">Welcome to Census App</string>
+    <string name="username">Username</string>
+    <string name="sign_in">Sign in</string>
+    <string name="password">password</string>
+    <string name="todo">TODO</string>
+    <string-array name="Div">
+        <item>Select Divisions</item>
+        <item>CHENNAI</item>
+        <item>MADURAI</item>
+        <item>THIRUCHIRAPPALLI</item>
+        <item>SALEM</item>
+        <item>TRIVANDRUM</item>
+        <item>PALGHAT</item>
+        <item>Select ALL</item>
+    </string-array>
+</resources>

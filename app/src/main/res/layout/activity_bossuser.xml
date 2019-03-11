@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Bossuser">
+
+    <Button
+        android:id="@+id/btn2"
+        android:layout_width="201dp"
+        android:layout_height="56dp"
+        android:layout_alignLeft="@+id/btn3"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="170dp"
+        android:background="#ad57d5"
+        android:text="@string/assign_census"
+        android:textColor="@android:color/background_light"
+        android:textSize="24sp"
+        tools:layout_editor_absoluteX="92dp"
+        tools:layout_editor_absoluteY="120dp" />
+
+    <Button
+        android:id="@+id/btn3"
+        android:layout_width="201dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="223dp"
+        android:background="#ad57d5"
+        android:text="@string/report"
+        android:textColor="@android:color/background_light"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="92dp"
+        tools:layout_editor_absoluteY="259dp"/>
+</RelativeLayout>

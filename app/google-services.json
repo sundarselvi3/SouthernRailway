@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "794173742973",
+    "firebase_url": "https://southernrailway-26b0f.firebaseio.com",
+    "project_id": "southernrailway-26b0f",
+    "storage_bucket": "southernrailway-26b0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794173742973:android:f6b84855ea05f88d",
+        "android_client_info": {
+          "package_name": "com.itcellsr.southernrailway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794173742973-45hli629o5vd2ldnlkit4q3m586jth6u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.itcellsr.southernrailway",
+            "certificate_hash": "86f263ffd5857a2be0f16c5da99826bb4c0be90b"
+          }
+        },
+        {
+          "client_id": "794173742973-nlvvhp9k2e0c245vp20dk8iqcg2hhc2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD41vC4jCicAH6vFkmAajvAScb3Yo-L5FE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794173742973-nlvvhp9k2e0c245vp20dk8iqcg2hhc2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
